@@ -11,7 +11,7 @@ warning: false
 
 ### Connecting Github
 
-1. Go to the [Github Integration](https://app.getpostman.com/dashboard/integrations/github) on the Postman Dashboard. Click on `Add`.
+1. Go to the [Github Integration](https://app.getpostman.com/dashboard/integrations/github) page on the Postman Dashboard. Click on `Add`.
 ![](https://cloud.githubusercontent.com/assets/6972850/21538679/73675996-cdc5-11e6-8b0a-d7d0f69fe315.png)
 
 2. You will be redirected to Github to authorize the Postman application. Click on `Authorize application`.

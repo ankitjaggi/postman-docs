@@ -398,6 +398,11 @@
         "title": "Integrating Github with Postman",
         "href": "/docs/github_integration",
         "external": "false"
+      },
+      {
+        "title": "Integrating Slack with Postman",
+        "href": "/docs/slack_integration",
+        "external": "false"
       }
     ]
   }
