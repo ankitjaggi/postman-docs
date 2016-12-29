@@ -385,5 +385,20 @@
         "external": false
       }
     ]
+  },
+  {
+    "title": "Integrations",
+    "children": [
+      {
+        "title": "Integrating Datadog with Postman",
+        "href": "/docs/datadog_integration",
+        "external": "false"
+      },
+      {
+        "title": "Integrating Github with Postman",
+        "href": "/docs/github_integration",
+        "external": "false"
+      }
+    ]
   }
 ]
